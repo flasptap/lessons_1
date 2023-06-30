@@ -1,0 +1,15 @@
+C:\Users\FlapStap\Desktop\Дз_1\obj\Debug\net6.0\Дз_1.csproj.AssemblyReference.cache
+C:\Users\FlapStap\Desktop\Дз_1\obj\Debug\net6.0\Дз_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FlapStap\Desktop\Дз_1\obj\Debug\net6.0\Дз_1.AssemblyInfoInputs.cache
+C:\Users\FlapStap\Desktop\Дз_1\obj\Debug\net6.0\Дз_1.AssemblyInfo.cs
+C:\Users\FlapStap\Desktop\Дз_1\obj\Debug\net6.0\Дз_1.csproj.CoreCompileInputs.cache
+C:\Users\FlapStap\Desktop\Дз_1\bin\Debug\net6.0\Дз_1.exe
+C:\Users\FlapStap\Desktop\Дз_1\bin\Debug\net6.0\Дз_1.deps.json
+C:\Users\FlapStap\Desktop\Дз_1\bin\Debug\net6.0\Дз_1.runtimeconfig.json
+C:\Users\FlapStap\Desktop\Дз_1\bin\Debug\net6.0\Дз_1.dll
+C:\Users\FlapStap\Desktop\Дз_1\bin\Debug\net6.0\Дз_1.pdb
+C:\Users\FlapStap\Desktop\Дз_1\obj\Debug\net6.0\Дз_1.dll
+C:\Users\FlapStap\Desktop\Дз_1\obj\Debug\net6.0\refint\Дз_1.dll
+C:\Users\FlapStap\Desktop\Дз_1\obj\Debug\net6.0\Дз_1.pdb
+C:\Users\FlapStap\Desktop\Дз_1\obj\Debug\net6.0\Дз_1.genruntimeconfig.cache
+C:\Users\FlapStap\Desktop\Дз_1\obj\Debug\net6.0\ref\Дз_1.dll
